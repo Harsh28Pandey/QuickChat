@@ -32,11 +32,14 @@
 
 ### 🎨 Frontend
 
-| No. | 🛠Tool / Library  | 💻Installation Command                      | 🔗 Link                         |
-| --- | ---------------- | ------------------------------------------- | ------------------------------- |
-| 1   | React (Vite)     | `npm create vite@latest frontend`           | [Link](https://vitejs.dev)      |
-| 2   | React Router DOM | `npm install react-router-dom`              | [Link](https://reactrouter.com) |
-| 3   | Tailwind CSS     | `npm install tailwindcss @tailwindcss/vite` | [Link](https://tailwindcss.com) |
+| No. | 🛠Tool / Library  | 💻Installation Command                      | 🔗 Link                                                |
+| --- | ---------------- | ------------------------------------------- | ------------------------------------------------------ |
+| 1   | React (Vite)     | `npm create vite@latest frontend`           | [Link](https://vitejs.dev)                             |
+| 2   | React Router DOM | `npm install react-router-dom`              | [Link](https://reactrouter.com)                        |
+| 3   | Tailwind CSS     | `npm install tailwindcss @tailwindcss/vite` | [Link](https://tailwindcss.com)                        |
+| 4   | React Hot Toast  | `npm install react-hot-toast`               | [Link](https://www.npmjs.com/package/react-hot-toast)  |
+| 5   | Axios            | `npm install axios`                         | [Link](https://www.npmjs.com/package/axios)            |
+| 6   | socket.io-client | `npm install socket.io-client`              | [Link](https://www.npmjs.com/package/socket.io-client) |
 
 ---
 
@@ -55,5 +58,6 @@
 | 9   | dotenv             | `npm install dotenv`       | [Link](https://www.npmjs.com/package/dotenv)   |
 | 10  | Socket.io          | `npm install socket.io`    | [Link](https://socket.io)                      |
 | 11  | Cloudinary         | `npm install cloudinary`   | [Link](https://cloudinary.com)                 |
+| 12  | Nodemon            | `npm install nodemon`      | [Link](https://www.npmjs.com/package/nodemon)  |
 
 ---
