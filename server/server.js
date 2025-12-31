@@ -48,7 +48,7 @@ app.use(cors({
 }));
 
 app.use(express.json());
-app.use(cors())
+// app.use(cors())
 
 // routes setup
 app.use("/api/status", (req, res) => res.send("Server is Live..."))
