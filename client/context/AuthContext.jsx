@@ -6,8 +6,8 @@ import { io } from "socket.io-client"
 const backendUrl = import.meta.env.VITE_BACKEND_URL
 axios.defaults.baseURL = backendUrl
 
-console.log("VITE_BACKEND_URL =>", backendUrl);
-console.log("Axios baseURL =>", axios.defaults.baseURL);
+// console.log("VITE_BACKEND_URL =>", backendUrl);
+// console.log("Axios baseURL =>", axios.defaults.baseURL);
 
 
 // eslint-disable-next-line react-refresh/only-export-components

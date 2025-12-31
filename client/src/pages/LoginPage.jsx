@@ -89,12 +89,12 @@ const LoginPage = () => {
 
                 <button className='py-3 bg-linear-to-r from bg-purple-400 to-violet-600 text-white rounded-full cursor-pointer'>
                     {
-                        currState === "Sign up" ? "Create Account" : "Login Now"
+                        currState === "Sign up" ? "Create Account ➕" : "Login Now 🔓"
                     }
                 </button>
 
                 <div className='flex items-center gap-2 text-sm text-gray-500'>
-                    <input type="checkbox" />
+                    <input required type="checkbox" />
                     <p>Agree to the Terms of use & Privacy Policy.</p>
                 </div>
 
