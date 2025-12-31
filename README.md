@@ -83,4 +83,16 @@ Manage user information, update your profile picture, and customize settings for
 
 ---
 
-**Website:** [Show Here](https://qchatty.vercel.app/login)
+## 🌐 Live Website
+
+Check out QuickChat online and start chatting instantly!
+
+**[Visit QuickChat](https://qchatty.vercel.app/login)** 🚀
+
+---
+
+## 🔗 Connect & Feedback
+
+I’d love to hear your feedback! Open an issue or contact me for suggestions and collaboration.
+
+---
