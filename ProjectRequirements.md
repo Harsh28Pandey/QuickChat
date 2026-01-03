@@ -28,6 +28,32 @@
 
 ---
 
+# Frontend Initialization (Initial Stage)
+
+This step initializes the frontend project using **Vite** for faster development
+and optimized build performance.
+
+## 📁 Navigate to Frontend Folder
+
+```bash
+cd frontend
+```
+
+## 🚀 Create Vite + React Project
+
+```bash
+npm create vite@latest
+```
+
+## 📦 Install Project Dependencies & Start Server
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
 ## 🧱 Tech Stack
 
 ### 🎨 Frontend
@@ -40,6 +66,24 @@
 | 4   | React Hot Toast  | `npm install react-hot-toast`               | [Link](https://www.npmjs.com/package/react-hot-toast)  |
 | 5   | Axios            | `npm install axios`                         | [Link](https://www.npmjs.com/package/axios)            |
 | 6   | socket.io-client | `npm install socket.io-client`              | [Link](https://www.npmjs.com/package/socket.io-client) |
+
+---
+
+# Backend Initialization (Initial Stage)
+
+This step initializes the backend project and generates the `package.json` file.
+
+## 📁 Navigate to Backend Folder
+
+```bash
+cd backend
+```
+
+## 🚀 Initialize Node.js Project
+
+```bash
+npm init -y
+```
 
 ---
 
